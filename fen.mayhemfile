@@ -1,0 +1,5 @@
+project: shakmaty
+target: fen
+
+cmds:
+  - cmd: /fen
